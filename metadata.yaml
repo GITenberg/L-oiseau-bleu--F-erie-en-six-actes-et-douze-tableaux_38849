@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38849#L-oiseau-bleu--F-erie-en-six-actes-et-douze-tableaux
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2012-02-12'
 gutenberg_type: Text
